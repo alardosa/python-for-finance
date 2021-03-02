@@ -13,7 +13,7 @@ We are proud to present Python for Finance: Investment Fundamentals and Data Ana
 An exciting journey from Beginner to Pro.
 
 ### References
-[Udemy - Python for Finance Investment fundamentals and data analysis](https://www.udemy.com/course/python-for-finance-investment-fundamentals-data-analytics/)
+[Python for Finance Investment fundamentals and data analysis](https://www.udemy.com/course/python-for-finance-investment-fundamentals-data-analytics/)
 
 ## Contact
 You can send me a note on Linkedin [@alardosa](https://www.linkedin.com/in/alardosa/)
