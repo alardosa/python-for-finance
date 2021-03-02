@@ -13,6 +13,8 @@ We are proud to present Python for Finance: Investment Fundamentals and Data Ana
 An exciting journey from Beginner to Pro.
 
 ### References
+[The Best Python for Finance: Investment Fundamentals & Data Analytics](https://www.alardosa.com/python-finance-investment-data-analytics/)
+
 [Python for Finance Investment fundamentals and data analysis](https://www.udemy.com/course/python-for-finance-investment-fundamentals-data-analytics/)
 
 ## Contact
