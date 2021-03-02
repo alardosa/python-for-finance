@@ -1,18 +1,18 @@
-# Python From Zero to Hero 
+# Python for Finance: Investment Fundamentals & Data Analytics
 
-Become a Python Programmer and learn one of employer's most requested skills of 2021!
+Do you want to learn how to use Python in a working environment?
 
-This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3.
+Are you a young professional interested in a career in Data Science?  
 
-Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more!
+Would you like to explore how Python can be applied in the world of Finance and solve portfolio optimization problems?  
 
-We will start by helping you get Python installed on your computer, regardless of your operating system, whether its Linux, MacOS, or Windows, we've got you covered.
+If so, then this is the right course for you!  
 
-### Complete Python Bootcamp From Zero to Hero in Python 
+We are proud to present Python for Finance: Investment Fundamentals and Data Analytics – one of the most interesting and complete courses we have created so far. It took our team slightly over four months to create this course, but now, it is ready and waiting for you.  
 
+An exciting journey from Beginner to Pro.
 
 ### References
-
 [Udemy - Python for Finance Investment fundamentals and data analysis](https://www.udemy.com/course/python-for-finance-investment-fundamentals-data-analytics/)
 
 ## Contact
