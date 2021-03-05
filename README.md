@@ -1,4 +1,4 @@
-# Python for Finance: Investment Fundamentals & Data Analytics
+# The Best Python for Finance: Investment Fundamentals & Data Analytics
 
 Do you want to learn how to use Python in a working environment?
 
